@@ -12,7 +12,8 @@
           "**/Thumbs.db": true,
           "**/*.crswap": true,
           "**/*.json": true
-        }
+        },
+         "code-runner.runInTerminal": true
       }
      },    
     
