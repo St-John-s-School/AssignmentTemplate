@@ -20,6 +20,5 @@
     "codespaces": {
       "openFiles":["README.md", "Runner.java"]
     }    
-  },
-  "remoteUser": "vscode"
+  }
 }
