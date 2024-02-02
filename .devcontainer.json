@@ -13,7 +13,8 @@
           "**/*.crswap": true,
           "**/*.json": true
         },
-         "code-runner.runInTerminal": true
+         "code-runner.runInTerminal": true,
+         "code-runner.ignoreSelection": true
       }
      },    
     
