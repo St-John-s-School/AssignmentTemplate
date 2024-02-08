@@ -15,9 +15,22 @@
 
 ![File Text](Path_To_File)
 
+
+1. Numbered List
+2. Item 1
+3. Item 2
+
 - Bullet Point list
   - Item 1
     - Item 2
+   
+1. Mixed List
+    - Item 1
+      - Item 2
+2. Next number
+    - Item 1
+      - Item 2   
+
 
 <pre>
   Literal conversion
