@@ -28,7 +28,7 @@ Numbered Table
 |Table Col Title 1 | Table Col Title 2|
 |---|--------------|
 |1|[Jumps to Make Change](#make-change)|
-|2|[Digit Separator](#digit-separator)|
+|2|[Section Header](#section-header)|
 |3|[Rock Paper Scissors](#rock-paper-scissors)|
 |4|[Personality Quiz](#personality-quiz)|
 |5|[Contains Sequence](#contains-sequence)|
