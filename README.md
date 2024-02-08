@@ -7,6 +7,8 @@
 
 *Italized*
 
+<ins>Underlined</ins>
+
 
 [Hyper Link Text](URL)
 
