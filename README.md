@@ -47,21 +47,22 @@ This lab is worth X points in total.
 
 `This` is used to add emphasis
 
-Numbered Table
-|Table Col Title 1 | Table Col Title 2|
-|---|--------------|
-|1|[Jumps to Make Change](#make-change)|
-|2|[Section Header](#section-header)|
-|3|[Rock Paper Scissors](#rock-paper-scissors)|
-|4|[Personality Quiz](#personality-quiz)|
-|5|[Contains Sequence](#contains-sequence)|
+|Problem Descriptions|
+|--------------------|
+|[Problem 1](#problem-1)|
 
-Un-Ordered Table
+## Problem 1
+
+Write a method named `isPalindrome` that will accept one String argument. The method should return true if the string is a palindrome. The method should return false if the string is not a palindrome. 
+The input String can be of ANY length and of ANY case.
+
+
+
+
 |Input				|				Expected return value|
 |----------------|-----------------|
-|foo(“racecar”)		|	true |
-|foo(“Hello”)     |    false |
-|foo(“Dad”)		|	true |
+|isPalindrome(“racecar”)		|	true |
+|isPalindrome(“Hello”)     |    false |
+|isPalindrome(“Dad”)		|	true |
 
-## Make Change
 
