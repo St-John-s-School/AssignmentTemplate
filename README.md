@@ -1,7 +1,7 @@
 # Lab X: Title 
 **Objective: Students will get a brief introduction to GitHub, Codespaces, and how to use them!**
 
-## Description:
+## Lab Overview:
 
 This lab is worth X points in total. 
 
