@@ -1,5 +1,5 @@
 # Lab X: Title 
-**Objective:**
+**Objective: Students will get a brief introduction to GitHub, Codespaces, and how to use them!**
 
 ## Description:
 
