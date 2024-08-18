@@ -1,3 +1,10 @@
+# Lab X: Title 
+**Objective:**
+
+## Description:
+
+This lab is worth X points in total. 
+
 [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 # Title Header
